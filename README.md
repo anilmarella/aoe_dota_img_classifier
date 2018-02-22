@@ -2,7 +2,7 @@
 
 Simple image classifier. Predicts if a given image is a screen from DOTA game or AOE game with over 99% accuracy.
 
-Model implemented using Keras python libary. Details of the model are below.
+Model implemented using Keras python library. Details of the model are below.
 
 | Layer (type)                  | Output Shape         | # of Params     |
 | ------------------------------|----------------------|----------------:|
